@@ -23,7 +23,6 @@ import com.nelioalves.cursomc.services.exceptions.DataIntegrityException;
 import com.nelioalves.cursomc.services.exceptions.ObjectNotFoundException;
 
 @Service
-
 public class ClienteService {
 
 	@Autowired
